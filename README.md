@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Electrical and Computer Engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- www.linkedin.com/in/seanhu2100
+
 
 <!---
 SeanHu2100/SeanHu2100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
